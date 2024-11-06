@@ -1,0 +1,10 @@
+[
+  {
+    "id": "drumBuff1",
+    "file": "media\\batteriaoyc.wav"
+  },
+  {
+    "id": "bassBuff1",
+    "file": "media\\BASSONUOVO.wav"
+  }
+]
